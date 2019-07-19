@@ -1,0 +1,5 @@
+name: Arcade
+version: 1
+main: me.zap.arcade.Arcade
+author: Zap
+description: Arcade designer for minecraft!
